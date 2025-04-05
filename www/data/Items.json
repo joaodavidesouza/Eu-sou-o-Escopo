@@ -1,5 +1,6 @@
 [
 null,
 {"id":1,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Um pacote de trakinas.","effects":[],"hitType":0,"iconIndex":1,"itypeId":1,"name":"Trakinas","note":"Um pacote de Trakinas","occasion":0,"price":0,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0},
-{"id":2,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Uma garrafa de água","effects":[],"hitType":0,"iconIndex":176,"itypeId":1,"name":"Garrafa de água","note":"Uma garrafa de água","occasion":0,"price":0,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0}
+{"id":2,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Uma garrafa de água","effects":[],"hitType":0,"iconIndex":176,"itypeId":1,"name":"Garrafa de água","note":"Uma garrafa de água","occasion":0,"price":0,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"O escopo ajeitado do cliente","effects":[],"hitType":0,"iconIndex":187,"itypeId":2,"name":"Escopo","note":"","occasion":0,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0}
 ]
