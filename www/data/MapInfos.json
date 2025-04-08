@@ -14,7 +14,7 @@ null,
 {"id":12,"expanded":false,"name":"Sala","order":17,"parentId":10,"scrollX":819,"scrollY":478},
 {"id":13,"expanded":true,"name":"Interior1Direita","order":13,"parentId":2,"scrollX":819,"scrollY":478},
 {"id":14,"expanded":true,"name":"Buraco","order":14,"parentId":13,"scrollX":819,"scrollY":478},
-{"id":15,"expanded":false,"name":"SaidaBuraco","order":15,"parentId":14,"scrollX":819,"scrollY":478},
+{"id":15,"expanded":true,"name":"SaidaBuraco","order":15,"parentId":14,"scrollX":819,"scrollY":478},
 {"id":16,"expanded":false,"name":"SalaDoCliente","order":12,"parentId":8,"scrollX":819,"scrollY":478},
 {"id":17,"expanded":true,"name":"Rua","order":3,"parentId":1,"scrollX":819,"scrollY":470},
 {"id":18,"expanded":false,"name":"FrenteCasa","order":4,"parentId":17,"scrollX":819,"scrollY":478}
